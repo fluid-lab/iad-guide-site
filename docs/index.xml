@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IAD Guide Home on IAD Guide Site Demo</title>
-    <link>http://fluid-lab.github.io/iad-guide-site/</link>
+    <link>https://fluid-lab.github.io/iad-guide-site/</link>
     <description>Recent content in IAD Guide Home on IAD Guide Site Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://fluid-lab.github.io/iad-guide-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fluid-lab.github.io/iad-guide-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Architecture</title>
-      <link>http://fluid-lab.github.io/iad-guide-site/chapters/architecture/</link>
+      <link>https://fluid-lab.github.io/iad-guide-site/chapters/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fluid-lab.github.io/iad-guide-site/chapters/architecture/</guid>
+      <guid>https://fluid-lab.github.io/iad-guide-site/chapters/architecture/</guid>
       <description>The Canadian Museum for Human Rights’ architectural design is intended to “create a path for the visitor from darkness to light, and its signature architecture symbolizes hope for a changed world,” said the CMHR’s award-winning architect Antoine Predock.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis orci sed faucibus accumsan. Integer ac interdum est. Sed et augue vestibulum nibh elementum sodales in et purus. Nullam vehicula, ex ac gravida placerat, odio arcu facilisis enim, quis fringilla erat dui id nisl.</description>
     </item>
     
     <item>
       <title>Visitor Supports</title>
-      <link>http://fluid-lab.github.io/iad-guide-site/chapters/visitor-supports/</link>
+      <link>https://fluid-lab.github.io/iad-guide-site/chapters/visitor-supports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fluid-lab.github.io/iad-guide-site/chapters/visitor-supports/</guid>
+      <guid>https://fluid-lab.github.io/iad-guide-site/chapters/visitor-supports/</guid>
       <description>The CMHR is committed to providing an inclusively designed and accessible experience for all visitors.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Etiam venenatis orci sed faucibus accumsan Integer ac interdum est. Sed et augue vestibulum nibh elementum sodales in et purus. Nullam vehicula, ex ac gravida placerat, odio arcu facilisis enim, quis fringilla erat dui id nisl. Donec ac enim nec tortor semper consectetur non quis erat. Ut varius mattis nibh, eget fringilla elit tristique consectetur.</description>
@@ -33,10 +33,10 @@ Etiam venenatis orci sed faucibus accumsan Integer ac interdum est. Sed et augue
     
     <item>
       <title>Exhibition Design Standards</title>
-      <link>http://fluid-lab.github.io/iad-guide-site/chapters/exhibition-design-standards/</link>
+      <link>https://fluid-lab.github.io/iad-guide-site/chapters/exhibition-design-standards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fluid-lab.github.io/iad-guide-site/chapters/exhibition-design-standards/</guid>
+      <guid>https://fluid-lab.github.io/iad-guide-site/chapters/exhibition-design-standards/</guid>
       <description>This is some placeholder content. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Suspendisse id quam pulvinar nisi mollis laoreet sit amet ut purus. Integer justo sapien, feugiat non dui sed, maximus porttitor lectus.
 Curabitur lacinia sed dolor non elementum. In convallis purus vel consequat congue.
@@ -46,19 +46,19 @@ Donec bibendum ante id risus ultricies porta a sit amet elit.</description>
     
     <item>
       <title>About</title>
-      <link>http://fluid-lab.github.io/iad-guide-site/about/</link>
+      <link>https://fluid-lab.github.io/iad-guide-site/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fluid-lab.github.io/iad-guide-site/about/</guid>
+      <guid>https://fluid-lab.github.io/iad-guide-site/about/</guid>
       <description>Here you will find information about this website.</description>
     </item>
     
     <item>
       <title>Article placeholder number 1</title>
-      <link>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-1/</link>
+      <link>https://fluid-lab.github.io/iad-guide-site/about-this-site/article-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-1/</guid>
+      <guid>https://fluid-lab.github.io/iad-guide-site/about-this-site/article-1/</guid>
       <description>This is some placeholder content.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id quam pulvinar nisi mollis laoreet sit amet ut purus. Integer justo sapien, feugiat non dui sed, maximus porttitor lectus. Curabitur lacinia sed dolor non elementum. In convallis purus vel consequat congue.
 Etiam volutpat nulla dictum orci ultrices sollicitudin. Duis porttitor turpis vitae urna suscipit, ultrices gravida nunc interdum. Quisque id molestie ligula. Donec bibendum ante id risus ultricies porta a sit amet elit.</description>
@@ -66,10 +66,10 @@ Etiam volutpat nulla dictum orci ultrices sollicitudin. Duis porttitor turpis vi
     
     <item>
       <title>Article placeholder number 2</title>
-      <link>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-2/</link>
+      <link>https://fluid-lab.github.io/iad-guide-site/about-this-site/article-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-2/</guid>
+      <guid>https://fluid-lab.github.io/iad-guide-site/about-this-site/article-2/</guid>
       <description>This is some placeholder content for the second article.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Suspendisse id quam pulvinar nisi mollis laoreet sit amet ut purus. Integer justo sapien, feugiat non dui sed, maximus porttitor lectus.
@@ -79,10 +79,10 @@ Etiam volutpat nulla dictum orci ultrices sollicitudin. Duis porttitor turpis vi
     
     <item>
       <title>Contact Us</title>
-      <link>http://fluid-lab.github.io/iad-guide-site/contact/</link>
+      <link>https://fluid-lab.github.io/iad-guide-site/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://fluid-lab.github.io/iad-guide-site/contact/</guid>
+      <guid>https://fluid-lab.github.io/iad-guide-site/contact/</guid>
       <description>Contact information goes here.</description>
     </item>
     
