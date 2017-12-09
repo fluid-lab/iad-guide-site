@@ -1,0 +1,8 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
+title = "IAD Guide Site Demo"
+theme = "iad-guide-theme"
+publishDir = "docs"
+
+[params]
+  description = "A demonstration of the IAD Guide done in Hugo."
