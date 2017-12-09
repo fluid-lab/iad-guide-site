@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/chapters/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/chapters/architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/chapters/visitor-supports/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/chapters/exhibition-design-standards/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/about-this-site/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/</loc>
+  </url>
+  
+  <url>
+    <loc>http://fluid-lab.github.io/iad-guide-site/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

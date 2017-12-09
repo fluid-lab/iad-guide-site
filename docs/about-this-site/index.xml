@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About This Site on IAD Guide Site Demo</title>
+    <link>http://fluid-lab.github.io/iad-guide-site/about-this-site/</link>
+    <description>Recent content in About This Site on IAD Guide Site Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://fluid-lab.github.io/iad-guide-site/about-this-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article placeholder number 1</title>
+      <link>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-1/</guid>
+      <description>This is some placeholder content.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id quam pulvinar nisi mollis laoreet sit amet ut purus. Integer justo sapien, feugiat non dui sed, maximus porttitor lectus. Curabitur lacinia sed dolor non elementum. In convallis purus vel consequat congue.
+Etiam volutpat nulla dictum orci ultrices sollicitudin. Duis porttitor turpis vitae urna suscipit, ultrices gravida nunc interdum. Quisque id molestie ligula. Donec bibendum ante id risus ultricies porta a sit amet elit.</description>
+    </item>
+    
+    <item>
+      <title>Article placeholder number 2</title>
+      <link>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fluid-lab.github.io/iad-guide-site/about-this-site/article-2/</guid>
+      <description>This is some placeholder content for the second article.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse id quam pulvinar nisi mollis laoreet sit amet ut purus. Integer justo sapien, feugiat non dui sed, maximus porttitor lectus.
+Curabitur lacinia sed dolor non elementum. In convallis purus vel consequat congue.
+Etiam volutpat nulla dictum orci ultrices sollicitudin. Duis porttitor turpis vitae urna suscipit, ultrices gravida nunc interdum. Quisque id molestie ligula.</description>
+    </item>
+    
+  </channel>
+</rss>

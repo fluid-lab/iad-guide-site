@@ -1,0 +1,31 @@
+/*
+Copyright (c) 2017 OCAD University
+Licensed under BSD-3-Clause:
+https://github.com/fluid-lab/iad-guide-theme/blob/master/LICENSE)
+*/
+body {
+    counter-reset: figure-counter;
+}
+
+.iad-sidebar-container {
+    background-color: #efefef;
+}
+
+.iad-main-container {
+    height: 100vh;
+}
+
+.caption::before {
+    counter-increment: figure-counter;
+    content: 'Figure ' counter(figure-counter) ': ';
+    font-weight: bold;
+    display: inline;
+}
+
+.iad-nav-current {
+    font-weight: bold;
+}
+
+.iad-nav-current:before {
+    content: "►";
+}
